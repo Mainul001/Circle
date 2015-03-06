@@ -21,6 +21,7 @@ namespace CircleCalculation
             Console.WriteLine("Perimeter(Circumference) " + aCircle.getPerimeter());
 
             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
