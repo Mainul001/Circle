@@ -1,0 +1,6 @@
+F:\luniam_workspace\CircleCalculation\CircleCalculation\bin\Debug\CircleCalculation.exe.config
+F:\luniam_workspace\CircleCalculation\CircleCalculation\bin\Debug\CircleCalculation.exe
+F:\luniam_workspace\CircleCalculation\CircleCalculation\bin\Debug\CircleCalculation.pdb
+F:\luniam_workspace\CircleCalculation\CircleCalculation\obj\Debug\CircleCalculation.csprojResolveAssemblyReference.cache
+F:\luniam_workspace\CircleCalculation\CircleCalculation\obj\Debug\CircleCalculation.exe
+F:\luniam_workspace\CircleCalculation\CircleCalculation\obj\Debug\CircleCalculation.pdb
